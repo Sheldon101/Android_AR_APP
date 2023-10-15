@@ -11,7 +11,7 @@ res:layout,
 
 Task 
 1. CSUSM logo using PS
-2. Incorpating the two icon buttons settings and info
+2. Incorporating the two icon buttons settings and info
 3. Including more options for directions-need an additional folder for directions menu or grid for the other options. 
-4. Adding the events on to the event page
+4. Adding the events onto the event page
    
