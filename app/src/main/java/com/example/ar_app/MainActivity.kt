@@ -38,7 +38,7 @@ class MainActivity : AppCompatActivity() {
                 R.id.bottom_directions-> replaceFragment(Directions())
                 R.id.bottom_camera -> replaceFragment(Camera())
                 R.id.bottom_events -> replaceFragment(Events())
-                R.id.bottom_settings->replaceFragment(Settings())
+                R.id.bottom_settings -> replaceFragment(Settings())
 
                 else->{
 
