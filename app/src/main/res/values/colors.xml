@@ -3,4 +3,13 @@
     <color name="white">#FFFFFFFF</color>
     <color name= "light_blue">#89b5f7</color>
     <color name= "yellow">#ffd230</color>
+
+    <color name = "university_blue">#002E5A</color>
+    <color name = "cougar_blue">#0062a5</color>
+    <color name = "spirit_blue">#3ab5e8</color>
+    <color name = "rich_black">#222222</color>
+    <color name = "gray_30">#bcbec0</color>
+    <color name = "gray_20">#d1d3d4</color>
+    <color name = "pale_blue">#DCE8EE</color>
+
 </resources>

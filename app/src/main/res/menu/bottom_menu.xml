@@ -5,11 +5,16 @@
         android:title="Home"
         android:icon="@drawable/outline_home_24"
         />
+<!--    <item-->
+<!--        android:id="@+id/bottom_map"-->
+<!--        android:title="Map"-->
+<!--        android:icon="@drawable/outline_map_24"-->
+<!--        />-->
 
     <item
         android:id="@+id/bottom_directions"
         android:title="Directions"
-        android:icon="@drawable/outline_directions_24"
+        android:icon="@drawable/outline_navigation_24"
         />
 
     <item
@@ -28,5 +33,10 @@
         android:title="Settings"
         android:icon="@drawable/outline_settings_24"
         />
+
+<!--    <item-->
+<!--        android:id="@+id/bottom_info"-->
+<!--        android:icon="@drawable/outline_info_24"-->
+<!--        android:title="Info" />-->
 
 </menu>
