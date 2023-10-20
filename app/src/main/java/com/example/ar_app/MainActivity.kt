@@ -35,10 +35,10 @@ class MainActivity : AppCompatActivity() {
         binding.bottomNavigationView.setOnNavigationItemSelectedListener {
             when(it.itemId){
                 R.id.bottom_home-> replaceFragment(Home())
-                R.id.bottom_map-> replaceFragment(Map())
                 R.id.bottom_directions-> replaceFragment(Directions())
                 R.id.bottom_camera -> replaceFragment(Camera())
                 R.id.bottom_events -> replaceFragment(Events())
+                R.id.bottom_settings->replaceFragment(Settings())
 
                 else->{
 
@@ -46,9 +46,6 @@ class MainActivity : AppCompatActivity() {
             }
             true
         }
-
-
-
 
     }
  private fun replaceFragment(fragment:Fragment){
