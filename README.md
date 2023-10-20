@@ -10,6 +10,6 @@ MainActivity,
 res:layout,
 
 Task 
-1. Add titles to pages 
-2. Adding the events onto the event page- layout 
-   
+1. Map and directions 
+2. parsing the event details 
+3. Include emergency info 
